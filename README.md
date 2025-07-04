@@ -8,7 +8,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/AdeelAliYousaf/ViolenceDetectionSystem?style=social)
 ![GitHub license](https://img.shields.io/github/license/AdeelAliYousaf/ViolenceDetectionSystem)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 
 ---
 
